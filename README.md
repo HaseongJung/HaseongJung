@@ -11,9 +11,10 @@
 [![wakatime](https://wakatime.com/badge/user/f6d79253-e5a4-4b14-b0a9-9658ac936d17.svg)](https://wakatime.com/@f6d79253-e5a4-4b14-b0a9-9658ac936d17)
 
 ## 💬 About me
-- 🌱 I’m a sophomore in Daejin University
-- My major is AI&Bigdata
-- I’m currently learning ML/DL
+- 👨🏻‍🎓 I’m a sophomore in Daejin University
+- 🤖 My major is AI&Bigdata
+- 📖 I’m currently learning ML/DL
+- 📖 I’m currently learning Front-End
 
 #### 🎖️ Ranking
 [![Solved.ac
