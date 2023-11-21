@@ -19,7 +19,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=haseong8012)](https://solved.ac/haseong8012) &nbsp;&nbsp;&nbsp;
 
-#### Tech Stack
+#### 📚 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/python-blue?style=flat&logo=Python3&logoColor=blue"/>
 </p>
