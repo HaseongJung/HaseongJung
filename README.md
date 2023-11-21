@@ -1,12 +1,12 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Waving&height=150&section=header&text=Haseong%20Jung&fontSize=35&animation=fadeIn&fontAlignY=30&color=B3E5FC&fontColor=000000)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&height=150&section=header&text=Haseong%20Jung&fontSize=35&animation=fadeIn&fontAlignY=30&color=041427&fontColor=fff)
 </div>
 <p>
   
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=haseong8012)](https://solved.ac/haseong8012) &nbsp;&nbsp;&nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HaseongJung&show_icons=true&include_all_commits=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HaseongJung&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 
 <!--START_SECTION:waka-->
