@@ -2,12 +2,14 @@
   
   ![header](https://capsule-render.vercel.app/api?type=Waving&height=150&section=header&text=Haseong%20Jung&fontSize=35&animation=fadeIn&fontAlignY=30&color=072345&fontColor=fff)
 </div>
-<p>
-  
-  [![Solved.ac
-  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=haseong8012)](https://solved.ac/haseong8012) &nbsp;&nbsp;&nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HaseongJung&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-</p>
+
+## 💬 About me
+- 🌱 I’m a sophomore in Daejin University
+- My major is AI&Bigdata
+
+#### 🎖️ Ranking
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=haseong8012)](https://solved.ac/haseong8012) &nbsp;&nbsp;&nbsp;
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2022%20mins-blue)
