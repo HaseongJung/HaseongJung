@@ -14,6 +14,7 @@
 - 🌱 I'm a github newbie
 - 👨🏻‍🎓 I’m a sophomore in Daejin University
 - 🤖 My major is AI&Bigdata
+- 📖 I’m currently learning Data analysis
 - 📖 I’m currently learning ML/DL
 - 📖 I’m currently learning Front-End
 
