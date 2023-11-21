@@ -65,6 +65,9 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
  Last Updated on 21/11/2023 18:11:44 UTC
 <!--END_SECTION:waka-->
-![](https://visitor-badge.glitch.me/badge?page_id=haseong8012@gmail.com)
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HaseongJung&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaseongJung&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=haseong8012)](https://solved.ac/haseong8012)
