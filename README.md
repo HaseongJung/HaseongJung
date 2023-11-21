@@ -19,6 +19,11 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=haseong8012)](https://solved.ac/haseong8012) &nbsp;&nbsp;&nbsp;
 
+#### Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/python-blue?style=flat&logo=Python3&logoColor=blue"/>
+</p>
+
 #### ⏲️ Work Stats
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2022%20mins-blue)
