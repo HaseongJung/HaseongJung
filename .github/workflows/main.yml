@@ -16,7 +16,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}  
           # LOCALE: "eg"
-          SHOW_SHORT_INFO: "True"
+          # SHOW_SHORT_INFO: "True"
           SHOW_LINES_OF_CODE: "False"
           SHOW_LANGUAGE: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
@@ -26,5 +26,5 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "False"
-          SHOW_TOTAL_CODEE_TIME: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
           
