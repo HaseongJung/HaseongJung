@@ -66,6 +66,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
  Last Updated on 21/11/2023 18:11:44 UTC
 <!--END_SECTION:waka-->
 <p>
+  
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=haseong8012)](https://solved.ac/haseong8012)
   
