@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&section=header&text=Haseong%20Jung&fontSize=35&animation=fadeIn&fontAlignY=40&color=01579B&fontColor=85C1E9)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&section=header&text=Haseong%20Jung&fontSize=35&animation=fadeIn&fontAlignY=40&color=01579B&fontColor=E0F7FA)
 </div>
 <p>
   
