@@ -45,11 +45,11 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 [![Huggubgface Badge](https://custom-icon-badges.demolab.com/badge/Huggingface-black.svg?logo=huggingfacelogo_2&logoColor=yellow)](https://huggingface.co/haseong8012)
 
-### 🎖️ Ranking
+## 🎖️ Ranking
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=haseong8012)](https://solved.ac/haseong8012)
 
-### ⏲️ Work Stats
+## ⏲️ Work Stats
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
