@@ -18,10 +18,6 @@
 - 📖 I’m currently learning ML/DL
 - 📖 I’m currently learning Front-End
 
-#### 🎖️ Ranking
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=haseong8012)](https://solved.ac/haseong8012)
-
 
 #### 📚 Tech Stack
 ##### 📋 Languages
@@ -55,6 +51,9 @@
   [![Huggubgface Badge](https://custom-icon-badges.demolab.com/badge/Huggingface-black.svg?logo=huggingfacelogo_2&logoColor=yellow)](https://huggingface.co/haseong8012)
 </p>
 
+#### 🎖️ Ranking
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=haseong8012)](https://solved.ac/haseong8012)
 
 #### ⏲️ Work Stats
 <!--START_SECTION:waka-->
