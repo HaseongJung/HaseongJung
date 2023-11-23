@@ -32,7 +32,7 @@
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 </p>
 
-#####📚 Frameworks, Platforms and Libraries
+##### 📚 Frameworks, Platforms and Libraries
 <p>
   
   ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)&nbsp;
