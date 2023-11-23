@@ -7,7 +7,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-HaseongJung-grey?style=flat&logo=github&logoColor=white&link=https://github.com/HaseongJung/)](https://www.github.com/HaseongJung/) 
 [![Gmail Badge](https://img.shields.io/badge/-haseong8012@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:haseong8012@gmail.com)](mailto:haseong8012@gmail.com) 
-[![Huggubg Face](https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=image(1)&logoColor=white)](https://huggingface.co/haseong8012))
+[![Huggubg Face](https://custom-icon-badges.demolab.com/badge/Huggingface-blue.svg?logo=image(1)&logoColor=white)](https://huggingface.co/haseong8012)
 [![wakatime](https://wakatime.com/badge/user/f6d79253-e5a4-4b14-b0a9-9658ac936d17.svg)](https://wakatime.com/@f6d79253-e5a4-4b14-b0a9-9658ac936d17)
 
 ## 💬 About me
