@@ -43,7 +43,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Huggubgface Badge](https://custom-icon-badges.demolab.com/badge/Huggingface-black.svg?logo=huggingfacelogo_2&logoColor=yellow)
+![Huggubgface Badge](https://custom-icon-badges.demolab.com/badge/Huggingface-black.svg?style=for-the-badge?logo=huggingfacelogo_2&logoColor=yellow)
 
 ## 🎖️ Ranking
 [![Solved.ac
