@@ -20,7 +20,8 @@
 
 #### 🎖️ Ranking
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=haseong8012)](https://solved.ac/haseong8012) </br>
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=haseong8012)](https://solved.ac/haseong8012)
+
 
 #### 📚 Tech Stack
 ##### 📋 Languages
@@ -51,6 +52,7 @@
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </p>
+
 
 #### ⏲️ Work Stats
 <!--START_SECTION:waka-->
