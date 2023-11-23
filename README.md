@@ -23,7 +23,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=haseong8012)](https://solved.ac/haseong8012) &nbsp;&nbsp;&nbsp;
 
 #### 📚 Tech Stack
-##### Languages
+##### 📋 Languages
 <p>
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
