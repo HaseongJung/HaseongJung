@@ -7,7 +7,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-HaseongJung-grey?style=flat&logo=github&logoColor=white&link=https://github.com/HaseongJung/)](https://www.github.com/HaseongJung/) 
 [![Gmail Badge](https://img.shields.io/badge/-haseong8012@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:haseong8012@gmail.com)](mailto:haseong8012@gmail.com) 
-[![Huggubg Face](https://custom-icon-badges.demolab.com/badge/Huggingface-black.svg?logo=huggingface2&logoColor=yellow)](https://huggingface.co/haseong8012)
+[![Huggubgface Badge](https://custom-icon-badges.demolab.com/badge/haseong8012-black.svg?logo=huggingface2&logoColor=yellow)](https://huggingface.co/haseong8012)
 [![wakatime](https://wakatime.com/badge/user/f6d79253-e5a4-4b14-b0a9-9658ac936d17.svg)](https://wakatime.com/@f6d79253-e5a4-4b14-b0a9-9658ac936d17)
 
 ## 💬 About me
@@ -51,6 +51,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  [![Huggubgface Badge](https://custom-icon-badges.demolab.com/badge/Huggingface-black.svg?logo=huggingface2&logoColor=yellow)](https://huggingface.co/haseong8012)
 </p>
 
 
