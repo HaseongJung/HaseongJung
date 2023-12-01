@@ -5,8 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=78F724&center=true&vCenter=true&width=500&height=100&lines=Hi+there%2C+I'm+Haseong+Jung.;AI+Engineer)](https://git.io/typing-svg)
 
-![snake gif](https://github.com/haseong8012/haseong8012/blob/output/github-contribution-grid-snake.svg)
-![snake gif](https://github.com/haseong8012/haseong8012/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/HaseongJung/HaseongJung/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/HaseongJung/HaseongJung/blob/output/github-contribution-grid-snake.svg)
 
 # Hi there 👋
 
