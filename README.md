@@ -1,7 +1,9 @@
+<!--
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=Waving&height=150&section=header&text=Hi%20there👋%20I'm%20Haseong%20Jung👨‍💻&fontSize=35&animation=fadeIn&fontAlignY=30&color=072345&fontColor=fff)
 </div>
+-->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=78F724&center=true&vCenter=true&width=500&height=100&lines=Hi+there%2C+I'm+Haseong+Jung.;AI+Engineer)](https://git.io/typing-svg)
 
