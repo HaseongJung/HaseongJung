@@ -29,7 +29,7 @@ jobs:
 
       # 변경사항 push
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@main
         with:
           github_token: ${{ secrets.GH_TOKEN }}
           branch: main
