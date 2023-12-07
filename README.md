@@ -10,7 +10,7 @@
 ![snake gif](https://github.com/HaseongJung/HaseongJung/blob/output/github-contribution-grid-snake.svg)
 ![snake gif](https://github.com/HaseongJung/HaseongJung/blob/output/github-contribution-grid-snake.svg)
 
-# Hi there 👋
+## 👋 Contact 
 
 [![Github Badge](https://img.shields.io/badge/-HaseongJung-grey?style=flat&logo=github&logoColor=white&link=https://github.com/HaseongJung/)](https://www.github.com/HaseongJung/) 
 [![Gmail Badge](https://img.shields.io/badge/-haseong8012@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:haseong8012@gmail.com)](mailto:haseong8012@gmail.com) 
