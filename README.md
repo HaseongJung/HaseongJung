@@ -74,13 +74,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -96,7 +96,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/01/2024 15:19:09 UTC
+ Last Updated on 17/01/2024 15:18:59 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ Github Stats
