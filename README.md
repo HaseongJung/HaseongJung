@@ -74,13 +74,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 hrs 7 mins        ████████████████████████░   96.35 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 16 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -96,7 +97,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/03/2024 15:18:55 UTC
+ Last Updated on 12/03/2024 15:17:40 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ Github Stats
