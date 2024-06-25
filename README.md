@@ -74,13 +74,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -96,7 +96,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/06/2024 15:21:34 UTC
+ Last Updated on 25/06/2024 15:20:34 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ Github Stats
